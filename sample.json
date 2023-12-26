@@ -26,7 +26,7 @@
 }
 
 
-The commonly used symbols in Json:
+#The commonly used symbols in Json:
 
 {} - Json code should always start with open bracket { and ends with closed bracket }
 
